@@ -15,7 +15,7 @@ Word Analytics is a React application designed to analyze text input and provide
 ![Initial State](public/assets/InitialState.png)
 _The initial state of the project._
 
-![Example Input](public/assets/FilteredInputs.png)
+![Example Input](public/assets/ExampleInput.png)
 _An example sentence is typed, displaying updated and accurate statistics._
 
 ![Filtered Input](public/assets/FilteredInputs.png)
