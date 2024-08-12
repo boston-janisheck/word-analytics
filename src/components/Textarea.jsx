@@ -21,7 +21,6 @@ const Textarea = ({ text, setText }) => {
       warnings.length > 0 ? `${warnings.join(", ")} is not allowed.` : "";
     setWarning(warningMessage);
     setText(newText);
-    console.log(newText);
   };
 
   return (
